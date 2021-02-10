@@ -25,18 +25,6 @@
 
 3. Editar arquivo .env
 
-    APP_NAME=Laravel
-
-    APP_ENV=local
-
-    APP_KEY=base64:cHj9eUT8mWhCN6BcAhxGQ4j0aBolr7AlXoZUS/dJoTw=
-
-    APP_DEBUG=true
-
-    APP_URL=http://core-laravel.playground.local
-
-    LOG_CHANNEL=stack
-
     DB_CONNECTION=psql
 
     DB_HOST=127.0.0.1

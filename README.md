@@ -311,7 +311,7 @@
 
 3. git add  -- all (adicionar todos os arquivos para o inicio)
 
-4. git commit -m "Comentario Do Commit" (comutar os documentos)
+4. git commit -m "`Comentario Do Commit`" (comutar os documentos)
 
 5. git remote add origin `URL DO SEU REPOSITÓRIO` (criar repositório remoto)
 

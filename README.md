@@ -311,9 +311,9 @@
 
 3. git add  -- all (adicionar todos os arquivos para o inicio)
 
-4. git commit -m "First Commit" (comutar os documentos)
+4. git commit -m "Comentario Do Commit" (comutar os documentos)
 
-5. git remote add origin https://github.com/thiago662/laravel-core.git (criar repositório remoto)
+5. git remote add origin `URL DO SEU REPOSITÓRIO` (criar repositório remoto)
 
 6. git remote (verificar repositório remoto)
 

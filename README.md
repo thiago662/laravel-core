@@ -318,3 +318,5 @@
 6. git remote (verificar repositório remoto)
 
 7. git push -u origin master (enviar os arquivos para o repositório)
+
+8. git clone `URL DO SEU REPOSITÓRIO` `nome-novo`

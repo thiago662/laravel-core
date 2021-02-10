@@ -314,3 +314,19 @@
     $brands[0]->forceDelete();
 
     Brand::find(3)->forceDelete();
+
+## Comandos do git
+
+1. git init (inicializar repositório)
+
+2. git status (verificar como esta o preparo do seu repositório)
+
+3. git add  -- all (adicionar todos os arquivos para o inicio)
+
+4. git commit -m "First Commit" (comutar os documentos)
+
+5. git remote add origin https://github.com/thiago662/laravel-core.git (criar repositório remoto)
+
+6. git remote (verificar repositório remoto)
+
+7. git push -u origin master (enviar os arquivos para o repositório)
